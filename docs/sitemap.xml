@@ -6,14 +6,40 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
+
+<url>
+  <loc>https://int-n.info/</loc>
+  <lastmod>2024-01-28T01:55:13+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
 <url>
   <loc>https://int-n.info/</loc>
   <lastmod>2024-01-27T23:59:22+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://int-n.info/projects.html</loc>
+  <loc>https://shakiba.int-n.info/</loc>
   <lastmod>2024-01-27T23:59:22+00:00</lastmod>
+  <priority>0.95</priority>
+</url>
+<url>
+  <loc>https://sadra.int-n.info/</loc>
+  <lastmod>2024-01-27T23:59:22+00:00</lastmod>
+  <priority>0.95</priority>
+</url>
+<url>
+  <loc>https://lab.int-n.info/</loc>
+  <lastmod>2024-01-27T23:59:22+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://meta.int-n.info/</loc>
+  <lastmod>2024-01-27T23:59:22+00:00</lastmod>
+  <priority>0.85</priority>
+</url>
+<url>
+  <loc>https://int-n.info/projects.html</loc>
+  <lastmod>2024-01-28T01:55:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
